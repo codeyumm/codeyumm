@@ -19,7 +19,7 @@ I'm Priyam. Currently studying Web Development at Humber College.
   
 - 📫 Feel free to reach me on
 
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/294798270696521728)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/294798270696521728)
 
   
 
