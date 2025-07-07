@@ -1,6 +1,6 @@
 ### Hi there 👋, Priyam here
 
-I'm Priyam. Currently studying Web Development at Humber College.
+I'm Priyam. Currently studying Artificial Intelligence with Machine Learning at Humber College.
 
 
   
